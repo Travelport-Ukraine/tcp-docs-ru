@@ -9,4 +9,6 @@
     * [Для чего добавлять 64UZ в мой РСС?](chapter1/nastroiki-tcp/selective-access-dlya-tcp.md)
 * [Как переключать РСС?](kak-pereklyuchatsya-mezhdu-raznimi-rss.md)
 * [Как открыть бронирование в ТСР?](kak-otkrit-bronirovanie-v-tsr.md)
+* [Как активировать детальный просмотр?](kak-aktivirovat-detalnii-prosmotr.md)
+* [Баланс](balans.md)
 
