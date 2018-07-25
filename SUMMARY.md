@@ -17,4 +17,5 @@
 ## Примеры обмена билетов
 
 * [Общая процедура обмена билетов в ТСР](obschie-polozheniya-po-protsessu-obmena.md)
+* [Обмен по сохраненному тарифу](obmen-po-sohranennomu-tarifu.md)
 
