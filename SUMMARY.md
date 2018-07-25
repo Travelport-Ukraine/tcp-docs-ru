@@ -1,6 +1,8 @@
 # Summary
 
-* [Обзор](README.md)
+## Обзор
+
+* [Введение](README.md)
 * [Как начать пользоваться TCP?](chapter1.md)
   * [Как создать аккаунт в TCP?](chapter1/kak-sozdat-akkaunt-v-tcp.md)
   * [Настройки TCP](chapter1/nastroiki-tcp.md)
@@ -11,4 +13,8 @@
 * [Как открыть бронирование в ТСР?](kak-otkrit-bronirovanie-v-tsr.md)
 * [Как активировать детальный просмотр?](kak-aktivirovat-detalnii-prosmotr.md)
 * [Баланс](balans.md)
+
+## Примеры обмена билетов
+
+* [Общая процедура обмена билетов в ТСР](obschie-polozheniya-po-protsessu-obmena.md)
 
