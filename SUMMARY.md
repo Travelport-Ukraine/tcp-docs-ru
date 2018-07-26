@@ -13,6 +13,8 @@
 * [Как открыть бронирование в ТСР?](kak-otkrit-bronirovanie-v-tsr.md)
 * [Как активировать детальный просмотр?](kak-aktivirovat-detalnii-prosmotr.md)
 * [Баланс](balans.md)
+* [Добавление информационных сегментов в TCP](dobavlenie-informatsionnih-segmentov-v-tcp.md)
+* [Удаление сегментов](udalenie-segmentov.md)
 
 ## Примеры обмена билетов
 
@@ -21,4 +23,8 @@
 * [Обмен по новому тарифу](obmen-po-segmentam.md)
 * [Обмен со штрафом на EMD](obmen-po-manualnomu-raschetu.md)
 * [Обмен по мануальной маске](obmen-po-manualnoi-maske.md)
+
+## Ограничения
+
+* [Ограничения TCP](ogranicheniya/ogranicheniya-tcp.md)
 
