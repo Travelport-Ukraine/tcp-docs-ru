@@ -20,4 +20,5 @@
 * [Обмен по сохраненному тарифу](obmen-po-sohranennomu-tarifu.md)
 * [Обмен по новому тарифу](obmen-po-segmentam.md)
 * [Обмен со штрафом на EMD](obmen-po-manualnomu-raschetu.md)
+* [Обмен по мануальной маске](obmen-po-manualnoi-maske.md)
 
